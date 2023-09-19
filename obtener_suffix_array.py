@@ -13,7 +13,7 @@ def obtener_suffix_array(cadena):
 
 
 def main():
-    cadena = "banana"
+    cadena = "abracadabra"
     print("Cadena:", cadena)
     print("Suffix Array:", obtener_suffix_array(cadena))
 
